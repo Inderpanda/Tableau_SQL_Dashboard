@@ -4,6 +4,7 @@
 This is a mini Project from the MYSQL course which I completed a few days back. This project helped me to learn how to add SQL with Tableau to solve the problem of the company and give them solutions with the help of Insightful Dashboard in Tableau.
 
 
+.
 
 # 🎯 OBJECTIVE 🎯
 
@@ -17,6 +18,7 @@ This is a mini Project from the MYSQL course which I completed a few days back. 
  Let this range be defined by two values the user can insert when calling the procedure. Finally, visualize the obtained result set in Tableau as a double bar chart.
 
 
+.
 
 # 💡INSIGHTS 💡
 
